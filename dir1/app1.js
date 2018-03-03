@@ -1,0 +1,1 @@
+console.log("app.js file inside directory one")
